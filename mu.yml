@@ -1,0 +1,6 @@
+---
+environments:
+  - name: acceptance
+    provider: ecs-fargate
+  - name: production
+    provider: ecs-fargate
