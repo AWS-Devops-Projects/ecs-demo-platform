@@ -4,3 +4,4 @@ environments:
     provider: ecs-fargate
   - name: production
     provider: ecs-fargate
+    
