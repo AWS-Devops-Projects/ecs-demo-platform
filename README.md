@@ -4,7 +4,6 @@ This is part of an Amazon ECS workshop at https://ecsworkshop.com
 
 ## DEPLOYING MICROSERVICES TO ECS
 
-
 https://ecsworkshop.com/images/3-tier-architecture.svg
 
 ## CONFIGURE CLOUDWATCH CONTAINER INSIGHTS FOR YOUR ECS CLUSTER
